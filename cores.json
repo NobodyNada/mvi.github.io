@@ -1,4 +1,4 @@
-[
+{"cores": [
     {
         "id": "bsnes_mvi",
         "display_name":  "bsnes",
@@ -20,4 +20,4 @@
             "macos-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/download/latest/bsnes_mvi.x86_64.dylib"
         }
     }
-]
+]}
