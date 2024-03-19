@@ -14,10 +14,10 @@
                 "fig"
         ],
         "urls": {
-            "windows-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/download/latest/bsnes_mvi.dll",
-            "linux-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/download/latest/bsnes_mvi.so",
-            "macos-aarch64": "https://github.com/NobodyNada/bsnes_mvi/releases/download/latest/bsnes_mvi.aarch64.dylib",
-            "macos-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/download/latest/bsnes_mvi.x86_64.dylib"
+            "windows-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/latest/download/bsnes_mvi.dll",
+            "linux-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/latest/download/bsnes_mvi.so",
+            "macos-aarch64": "https://github.com/NobodyNada/bsnes_mvi/releases/latest/download/bsnes_mvi.aarch64.dylib",
+            "macos-x86_64": "https://github.com/NobodyNada/bsnes_mvi/releases/latest/download/bsnes_mvi.x86_64.dylib"
         }
     }
 ]}
